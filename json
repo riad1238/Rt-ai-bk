@@ -1,0 +1,12 @@
+{
+  "name": "learnquest-ai-backend",
+  "version": "1.0.0",
+  "description": "Demo AI tutor backend for LearnQuest",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
